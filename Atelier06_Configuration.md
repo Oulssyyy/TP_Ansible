@@ -1,7 +1,7 @@
 
 ## Challenge — Atelier 6 : Configuration de base
 
-#### Modifier /etc/hosts pour la résolution des noms
+#### Modifier `/etc/hosts` pour la résolution des noms
 Éditer le fichier hosts sur le Control Host :
 
 ```bash
@@ -107,7 +107,7 @@ log_path = ~/journal/ansible.log
 mkdir -pv ~/journal
 ```
 
-#### Créer le fichier d’inventaire (`hosts`)
+#### Créer le fichier d’inventaire (hosts)
 
 ```bash
 nano hosts
